@@ -1,5 +1,5 @@
 Currently working on a c++ project (password generator). \
-<img align="right" src="https://tenor.com/bl2Jt.gif" height="200"/>
+<gif align="right" src="https://tenor.com/bl2Jt.gif" height="200"/>
 Learning go lang. \
 Interested in DevOps/Cloud engineering. \
 \
