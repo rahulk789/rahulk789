@@ -1,4 +1,5 @@
-Currently working on a c++ project (password generator). \
+Currently working on a c++ project (password generator). \![image](https://user-images.githubusercontent.com/83643646/147383373-645eb43e-feac-4187-baeb-d6d5f7b907e5.png)
+
 Learning go lang. \
 Interested in DevOps/Cloud engineering. \
 \
