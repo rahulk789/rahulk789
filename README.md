@@ -1,6 +1,5 @@
 \
-Currently working on a c++ project (password generator). \
-<img align="right" src="https://github.com/rahulk789/rahulk789/blob/main/cat-kitty.gif" height="300" width="300"/>
+Currently working on a c++ project (password generator). <img align="right" src="https://github.com/rahulk789/rahulk789/blob/main/cat-kitty.gif" height="300" width="300"/>\
 Learning go lang. \
 Proefficient in Java,C,python,C++,Js\
 Interested in DevOps/Cloud engineering. \
