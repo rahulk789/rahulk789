@@ -1,6 +1,7 @@
 \
 Currently working on a c++ project (password manager). <img align="right" src="https://github.com/rahulk789/rahulk789/blob/main/cat-kitty.gif" height="300" width="300"/>\
 Learning go lang. \
+frameworks: Google cloud,linux,bash,node.js,react,git. \
 Proefficient in Java,C,python,C++,Js\
 Interested in DevOps/Cloud engineering. \
 \
