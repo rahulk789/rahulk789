@@ -4,6 +4,5 @@ Learning go lang. \
 frameworks: Google cloud,linux,bash,node.js,react,git. \
 Proefficient in Java,C,python,C++,Js\
 Interested in DevOps/Cloud engineering. \
-\
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulk789&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
