@@ -1,6 +1,6 @@
 \
 Extremely fascinated about Ebpf! \
-Tools and Frameworks: GCP,Kubernetes,Docker,IaC,Jenkins,Git Lab,Prometheus,Grafana,Linux,NodeJS,React,Git. \
+Tools and Frameworks: AWS,GCP,Kubernetes,Docker,IaC,Jenkins,Argo-CD,Vault,Keda,Victoria-Metrics,ELK stack,Git-Lab,Prometheus,Grafana,Linux,NodeJS,React,Git. \
 Languages: GO,Java,C,python,C++,Js,bash. \
 Interested in Cloud/DevOps engineering and SDE in Go lang. \
 \
