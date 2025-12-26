@@ -1,8 +1,8 @@
 \
-Extremely fascinated about Ebpf! \
-Tools and Frameworks: AWS,GCP,Kubernetes,Docker,IaC,Jenkins,Argo-CD,Vault,Keda,Victoria-Metrics,ELK stack,Git-Lab,Prometheus,Grafana,Linux,NodeJS,React,Git. \
-Languages: GO,Java,C,python,C++,Js,bash. \
-Interested in Cloud/DevOps engineering and SDE in Go lang. \
+Extremely fascinated about Ebpf and Cloud Native Tools! \
+Tools and Frameworks: AWS,GCP,Kubernetes,Docker,IaC,Jenkins,Argo-CD,Vault,Keda,ELK stack,Git-Lab,Prometheus,Grafana,Linux,NodeJS,React,Git, the list goes on! \
+Languages: Mainly Rust,GO,C++,python and bash. \
+Interested in DevOps engineering and Development in rust/go. \
 \
 Here is an image of a wonderful landscape of cold mountains to aid your github exploration journey. \
 \
